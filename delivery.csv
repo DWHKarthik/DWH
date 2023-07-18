@@ -1,4 +1,4 @@
-﻿Order No,Item ID,Order Date,Deilvery Date,Customer Id,City Id
+﻿OrderNo,ItemID,OrderDate,DeilveryDate,CustomerId,CityId
 1,4,5/27/2017,6/1/2017,3586,36
 2,16,7/15/2017,7/22/2017,2132,66
 3,5,4/9/2017,4/16/2017,1547,86
