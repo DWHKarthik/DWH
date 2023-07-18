@@ -1,4 +1,4 @@
-﻿Order No,Item ID,Sales Date,Customer Id,City Id,Qty,Price,COGS,Discount Percent
+﻿OrderNo,ItemID,SalesDate,CustomerId,CityId,Qty,Price,COGS,DiscountPercent
 1,4,5/27/2017,3586,36,1,233,172,12
 2,16,7/15/2017,2132,66,2,60,54,9
 3,5,4/9/2017,1547,86,1,333,259,5
